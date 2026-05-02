@@ -1,1 +1,1 @@
-# openclaw-ollama-ubuntu-setup
+This repository documents my practical workflow of using AI agents such as OpenClaw, Cursor and Cline to support DevOps-related tasks, including Ubuntu setup, Ollama installation, remote desktop configuration, troubleshooting and technical documentation.
